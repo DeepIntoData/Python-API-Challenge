@@ -1,0 +1,16 @@
+Observations and Insights
+
+Python APIs Challenge
+
+The first observations
+    According to the scatter plot for City Latitude vs Max Temperature 
+        Cities between Latitudes -60 to 0 seem to have around 50-90 degree temps on average while cities from 0 to 80 latitudes temperatures are drastic ranging anywhere between 100 to below 0
+
+A second observation
+    According to the scatter plot for Latitude vs Humidity
+        Cities around 0 degree lats and 60 degree lats seem to have a higher density where humidity is around 80 to 90
+
+
+A third observation
+    According to the scatter plot for City Latitude vs Wind Speed
+        Cities are rarely likely to have wind speeds above 15mph and average between 0-10 for most
